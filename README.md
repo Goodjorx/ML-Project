@@ -1,3 +1,3 @@
 # ML-Project
 
-Predictive Maintenance in a synthetic dataset. 
+Predictive Maintenance in a synthetic dataset using PySpark. 
